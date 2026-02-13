@@ -26,4 +26,4 @@ Beberapa proyek unggulan yang ditampilkan:
 
 1. **Clone repository:**
    ```bash
-   git clone [https://github.com/USERNAME_MAS_AGUS/asodev-site.git](https://github.com/aso17/asodev.git)
+   git clone [https://github.com/aso17/asodev-site.git](https://github.com/aso17/asodev.git)
