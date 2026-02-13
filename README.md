@@ -1,16 +1,29 @@
-# React + Vite
+# 🚀 ASODEV - Professional Web Development Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website portfolio resmi **ASODEV** yang dibangun dengan teknologi modern untuk menampilkan layanan dan hasil karya terbaik.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+Website ini dibangun menggunakan kombinasi teknologi:
+* **Frontend:** [React.js](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Icons:** [Lucide React](https://lucide.dev/)
+* **Deployment:** GitHub Pages
 
-## React Compiler
+---
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## 🌟 Featured Projects
+Beberapa proyek unggulan yang ditampilkan:
+1. **Rosidi Sulam Alis** - Landing Page (React + Tailwind)
+2. **Pesona Media Net** - Company Profile
+3. **ERP360** - Enterprise System (.NET & SQL Server)
+4. **Digantara** - Web App (Laravel API)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Cara Menjalankan Secara Lokal
+
+1. **Clone repository:**
+   ```bash
+   git clone [https://github.com/USERNAME_MAS_AGUS/asodev-site.git](https://github.com/aso17/asodev.git)
