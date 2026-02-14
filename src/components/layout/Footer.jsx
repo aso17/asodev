@@ -33,19 +33,19 @@ export function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.instagram.com/a_so404"
                 className="w-10 h-10 rounded-full bg-slate-900 flex items-center justify-center border border-slate-800 hover:border-blue-500 hover:text-blue-500 transition-all group"
               >
                 <Instagram size={18} />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/agus-solihin-4b26b7219/"
                 className="w-10 h-10 rounded-full bg-slate-900 flex items-center justify-center border border-slate-800 hover:border-blue-500 hover:text-blue-500 transition-all"
               >
                 <Linkedin size={18} />
               </a>
               <a
-                href="#"
+                href="https://github.com/aso17/"
                 className="w-10 h-10 rounded-full bg-slate-900 flex items-center justify-center border border-slate-800 hover:border-blue-500 hover:text-blue-500 transition-all"
               >
                 <Github size={18} />
@@ -108,13 +108,13 @@ export function Footer() {
                 <div className="w-8 h-8 rounded-lg bg-blue-500/10 flex items-center justify-center text-blue-500">
                   <Mail size={16} />
                 </div>
-                hello@asodev.id
+                agus.solihin.572@gmail.com
               </li>
               <li className="flex items-center gap-3 text-slate-400">
                 <div className="w-8 h-8 rounded-lg bg-green-500/10 flex items-center justify-center text-green-500">
                   <MessageCircle size={16} />
                 </div>
-                +62 812 3456 789
+                +62 895 1247 0844
               </li>
             </ul>
           </div>
